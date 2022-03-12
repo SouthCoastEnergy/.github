@@ -5,7 +5,9 @@
 Feel free to take a look at our [website](https://southcoast.energy).
 
 ## South Coast Energy on GitHub 🧑‍🍳
+
 South Coast Energy is baking/building on GitHub:
+
 1.	APIs
 2.	Apps
 3.	CDNs
@@ -16,30 +18,39 @@ We started building software for South Coast Energy in early 2020.
 We built Cloudflare Worker scripts to automate tasks.
 
 ## Founding 👨🏻‍💻
+
 [MaX](https://github.com/MaXFalstein) started building South Coast Energy in 2020.
 2021 Energy Crisis prompted MaX to consider further pursuing the path with South Coast Energy.
 
 ## Our Communities 👨‍👩‍👦👨‍👩‍👧👨‍👩‍👧‍👦👨‍👩‍👦‍👦👨‍👩‍👧‍👧👩‍👩‍👦👩‍👩‍👧👩‍👩‍👧‍👦👩‍👩‍👦‍👦👩‍👩‍👧‍👧👨‍👨‍👦👨‍👨‍👧👨‍👨‍👧‍👦👨‍👨‍👦‍👦👨‍👨‍👧‍👧👩‍👦👩‍👧👩‍👧‍👦👩‍👦‍👦👩‍👧‍👧👨‍👦👨‍👧👨‍👧‍👦👨‍👦‍👦👨‍👧‍👧
+
 We are primarily focussed on energy along the South Coast of England, United Kingdom.
 We may share more of our apps, development, docs, tools, research, etc. with like-minded charities, companies, groups, etc.
 Our internal community spans all subsectors within the energy industry except for energy to end-user sales.
 
 ## Partners 🪢
-TBA
+
+- [ ] TBA
 
 ## Contributors 🧑‍🔧
-TBA
+
+- [ ] TBA
 
 ## Sponsorships 🐕‍🦺
+
 - [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
 - Open-source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
 - **Every minute** a developer creates a new release 🏄 for a public project on GitHub
+
 South Coast Energy commits to supporting open-source developers and projects via GitHub Sponsors.
 We are proud to work alongside millions of developers, companies and [robots](https://github.com/readme/featured/nasa-ingenuity-helicopter) across the solar system 🪐
 
 ## Contributing to South Coast Energy 🧑‍🏭
 
+- [ ] TBA
+
 ## Open-Source Communities
+
 Now that we are talking about the important things ☝️, are you contributing to open-source? Yes? Okay, you rock! 🎸 If not, we and [GitHub](https://github.com) can help you get started! Open-source software is made by people just like you.
 <details> 
 <summary>Learn more about [how to contribute](https://opensource.guide)</summary>
