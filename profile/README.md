@@ -57,6 +57,7 @@ Now that we are talking about the important things ☝️, are you contributing 
 </details>
 
 ## Contributing to the Energy Revolution ⚡️🔋
+
 Some energy sector companies will not be our greatest supporters; this is the case of many revolution attempts in every sector.
 We contribute to the tools 🔧 we rely on to build and run South Coast Energy while maintaining 🧙‍♂️ our own open-source projects.
 Some of you, like South Coast Energy, may build closed or open-source software you would like to pitch to energy companies.
@@ -66,12 +67,14 @@ Energy secures the survival of homo sapiens; whether it be [the fire keeping our
 We strive for greater openness in an already opportunistic industry.
 
 ## Docs 🤓📚
+
 Our open-source software documentation will always be open-source.
 We privatise some of our infrastructure documentation; however, some of this will be generalised to provide open-source infrastructure case studies, documentation, infographics or 
 
 ## Appendix 👓
+
 See what's next on our [public roadmap](https://github.com/SouthCoastEnergy/roadmap) ✨
 Please, [let us know](https://github.com/SouthCoastEnergy/feedback) if you have any suggestions 🙇‍♂️
 We are always hiring talented, passionate people to [join our team](https://github.com/SouthCoastEnergy/careers) 🙌
+
 <sub><a href="https://southcoast.energy">South Coast Energy</a> <a href="https://legal.southcoast.energy/copyright">©</a> <a href="https://southcoast.energy">South Coast Energy</a> — <a href="https://southcoast.energy/founding" id="originyear">December 2021</a> to <a href="https://southcoast.energy/latest" id="monthyear">Present</a></sub>
-![image](https://user-images.githubusercontent.com/25090662/157997958-a31a870a-f105-4bcb-b716-9ec1cc9550af.png)
