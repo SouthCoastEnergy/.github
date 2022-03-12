@@ -1,4 +1,6 @@
-# Hi, this is [South Coast Energy](https://github.com/SouthCoastEnergy) 👋
+# Hi 👋 
+
+## Welcome to [South Coast Energy](https://github.com/SouthCoastEnergy)
 
 Feel free to take a look at our [website](https://southcoast.energy).
 
