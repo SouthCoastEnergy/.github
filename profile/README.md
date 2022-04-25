@@ -45,6 +45,9 @@ Our internal community spans all subsectors within the energy industry except fo
 South Coast Energy commits to supporting open-source developers and projects via GitHub Sponsors.
 We are proud to work alongside millions of developers, companies and [robots](https://github.com/readme/featured/nasa-ingenuity-helicopter) across the solar system 🪐
 
+More details will follow. We will be completely transparent regarding who and why we sponsor along with each sponsorship monetary value.
+There could be other sponsorship with access to our platforms and services; however, this has not been decided.
+
 ## Contributing to South Coast Energy 🧑‍🏭
 
 - [ ] TBA
