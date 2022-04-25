@@ -85,7 +85,8 @@ We strive for greater openness in an already opportunistic industry.
 ## Docs 🤓📚
 
 Our open-source software documentation will always be open-source.
-We privatise some of our infrastructure documentation; however, some of this will be generalised to provide open-source infrastructure case studies, documentation, infographics or 
+
+We privatise some of our infrastructure documentation; however, some of this will be generalised to provide open-source infrastructure case studies, documentation, infographics and statistics.
 
 ## Appendix 👓
 
